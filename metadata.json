@@ -1,0 +1,17 @@
+{
+  "name": "MyMemeCoin333",
+  "symbol": "MMC333",
+  "description": "This is a meme coin on the Solana blockchain.",
+  "image": "https://seeklogo.com/images/C/coinbase-coin-logo-C86F46D7B8-seeklogo.com.png",  // Replace with the actual image URL
+  "external_url": "https://example33.com",  // Replace with an external URL if you have one
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "1"
+    }
+  ]
+}
